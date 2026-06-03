@@ -1,0 +1,9 @@
+Question 1:
+Output: 221
+
+Question 2:
+Area of the pond: 22155 square meters
+Total water in the pond: 31018 liters
+
+Question 3:
+Speed: 1 meters per second
