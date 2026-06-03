@@ -1,0 +1,8 @@
+Question 1
+<class 'float'>
+
+Question 2
+Cannot create variable 'for' because 'for' is a reserved keyword in Python.
+
+Question 3
+Simple Interest = 150.0
