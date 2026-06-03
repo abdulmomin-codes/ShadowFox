@@ -1,0 +1,13 @@
+Question 1:
+Enter height in meters: 1.75
+Enter weight in kilograms: 70
+Normal
+
+Question 2:
+Enter a city name: Dubai
+Dubai is in UAE
+
+Question 3:
+Enter the first city: Mumbai
+Enter the second city: Chennai
+Both cities are in India
