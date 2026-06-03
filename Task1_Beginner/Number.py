@@ -12,7 +12,7 @@ def number(num, alphabet):
 result = number(145, 'o')
 
 print("Output:", result)
-
+# Reason: 'o' represents octal (base 8) format.
 
 # Question 2
 # In a village, there is a circular pond with a radius of 84 meters.
