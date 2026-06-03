@@ -1,0 +1,19 @@
+Question 1:
+Number of members in the Justice League: 6
+Justice League members: ['Superman', 'Batman', 'Wonder Woman', 'Flash', 'Aquaman', 'Green Lantern']
+
+Question 2:
+Justice League members: ['Superman', 'Batman', 'Wonder Woman', 'Flash', 'Aquaman', 'Green Lantern', 'Batgirl', 'Nightwing']
+
+Question 3:
+Justice League members: ['Wonder Woman', 'Superman', 'Batman', 'Flash', 'Aquaman', 'Green Lantern', 'Batgirl', 'Nightwing']
+
+Question 4:
+Justice League members: ['Wonder Woman', 'Superman', 'Batman', 'Flash', 'Green Lantern', 'Aquaman', 'Batgirl', 'Nightwing']
+
+Question 5:
+New Justice League: ['Cyborg', 'Shazam', 'Hawkgirl', 'Martian Manhunter', 'Green Arrow']
+
+Question 6:
+Sorted Justice League: ['Cyborg', 'Green Arrow', 'Hawkgirl', 'Martian Manhunter', 'Shazam']
+New leader of the Justice League: Cyborg
