@@ -1,0 +1,13 @@
+Question 1:
+List of names and their lengths:
+('John', 4)
+('Adam', 4)
+('Sam', 3)
+('Lily', 4)
+('Eliza', 5)
+
+Question 2:
+Your total expenses: 3000
+Partner's total expenses: 3050
+Your partner spent more money overall.
+The expense category with the largest difference is 'Hotel' with a difference of 200.
