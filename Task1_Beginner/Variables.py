@@ -16,7 +16,7 @@ print("Data type of pi:", type(pi))
 
 print("\nQuestion 2")
 print("'for' is a reserved keyword in Python.")
-
+# Reason: Cannot create variable 'for' because 'for' is a reserved keyword in Python.
 # Example:
 # for = 4
 # SyntaxError
