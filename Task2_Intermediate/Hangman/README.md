@@ -1,11 +1,18 @@
 # Hangman Game
 
-A Python word guessing game with:
+## Features
+- Random word selection
+- Category selection
+- Input validation
+- Hangman visual display
+- Win/Loss conditions
+- Play again option
 
-- Category Selection
-- Hangman Visual Display
-- Input Validation
-- Win/Loss Conditions
-- Play Again Feature
+## Technologies Used
+- Python
+- Random Module
 
-Developed as part of the ShadowFox Python Internship.
+## How to Run
+
+```bash
+python hangman.py
