@@ -2,29 +2,22 @@ import requests
 from bs4 import BeautifulSoup
 
 try:
-    # Website URL
     url = "https://www.shadowfox.org.in/"
 
-    # Send request
     response = requests.get(url)
     response.raise_for_status()
 
-    # Parse HTML
     soup = BeautifulSoup(response.text, "html.parser")
 
-    # Get website title
     title = soup.title.text
 
-    # Get headings
     headings = soup.find_all(["h1", "h2"])
 
-    # Get paragraphs
     paragraphs = soup.find_all("p")
 
-    # Display extracted data
     print("\nWebsite Title:")
     print(title)
-
+    
     print("\nHeadings:")
     for heading in headings:
         print("-", heading.text.strip())
@@ -35,7 +28,6 @@ try:
         if text:
             print("-", text)
 
-    # Save data to file
     with open("shadowfox_data.txt", "w", encoding="utf-8") as file:
 
         file.write("SHADOWFOX WEBSITE DATA\n")
