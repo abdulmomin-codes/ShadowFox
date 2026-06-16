@@ -1,30 +1,61 @@
 # ShadowFox Python Development Internship
 
-This repository contains the tasks completed as part of the ShadowFox Python Development Internship.
+## Level 1 - Beginner
 
-## Tasks Completed
+Completed the following Python fundamentals:
 
-### Task 1 - Beginner Level
-Topics Covered:
-- Variables
-- Numbers
-- Lists
-- If Conditions
-- Dictionaries
+* Variables
+* Numbers
+* Lists
+* Dictionaries
+* If Conditions
 
-### Task 2 - Intermediate Level
-Projects:
-- Hangman Game
-- Web Scraper using BeautifulSoup
+## Level 2 - Intermediate
 
-### Task 3 - Advanced Level
-- To be added
+### Hangman Game
 
-## Technologies Used
-- Python
-- BeautifulSoup
-- Requests
-- GitHub
+Developed a Python-based Hangman game featuring:
 
-## Author
-Abdul Momin
+* Category selection
+* Visual hangman progress
+* Input validation
+* Win/Loss conditions
+* Play Again functionality
+
+### Web Scraper
+
+Built a web scraper using Requests and BeautifulSoup:
+
+* Extracted website titles, headings, and paragraphs
+* Implemented error handling
+* Stored extracted data in a text file
+
+## Level 3 - Advanced
+
+### Student Performance Analysis (Jupyter Notebook)
+
+Performed exploratory data analysis on a student performance dataset using Pandas and Matplotlib.
+
+#### Research Questions
+
+1. Does study time affect final grades?
+2. Do absences affect academic performance?
+3. Is there a difference in performance based on gender?
+
+#### Analysis Performed
+
+* Dataset exploration using Pandas
+* Statistical summary of the dataset
+* Data visualization using Matplotlib
+* Interpretation of findings and conclusions
+
+#### Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+## Outcome
+
+Through these projects, I gained practical experience in Python programming, problem solving, web scraping, data analysis, GitHub project management, and Jupyter Notebook workflows.
